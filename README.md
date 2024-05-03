@@ -13,6 +13,6 @@ On the other hand, users can register. Users can search and view the taxis avail
 
 Admin can maintain a database of drivers. Drivers have to register on the portal. Drivers will be able to see the booking done by users and details of users like name, source, and destination location.
 
-<H1>Fab5 Cab Booking_H1 Application</H1>
+<H1>Cab Booking_H1 Application</H1>
 
 <img src= "GitHub Images/ERDaigram.png">
