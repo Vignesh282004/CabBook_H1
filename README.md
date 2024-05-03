@@ -1,6 +1,6 @@
 <img src= "GitHub Images/Logo.png">
 
-<H1>Fab5 Cab Booking Project</H1>
+<H1>Cab Booking_H1 Project</H1>
 
 
 It is built to support all the functionality related to managing a taxi booking system. We will discuss each aspect of this project in detail for enhanced understanding. The Taxi Booking System project is designed in Spring Boot and Hibernate along with the source code. Admin will be responsible for keeping a check on the booking of taxis, managing taxis, drivers, payments, etc. On the other hand, Users can register themselves, log in using the login credentials, view and book the taxi, view charges, etc.
@@ -13,6 +13,6 @@ On the other hand, users can register. Users can search and view the taxis avail
 
 Admin can maintain a database of drivers. Drivers have to register on the portal. Drivers will be able to see the booking done by users and details of users like name, source, and destination location.
 
-<H1>Fab5 Cab Booking Application</H1>
+<H1>Fab5 Cab Booking_H1 Application</H1>
 
 <img src= "GitHub Images/ERDaigram.png">
