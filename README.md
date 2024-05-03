@@ -1,4 +1,4 @@
-<img src= "GitHub Images/cabtrip.png">
+<img src= "Github Images/cabtrip1.png">
 
 <H1>Cab Booking_H1 Project</H1>
 
@@ -15,4 +15,4 @@ Admin can maintain a database of drivers. Drivers have to register on the portal
 
 <H1>Cab Booking_H1 Application</H1>
 
-<img src= "GitHub Images/ERDaigram.png">
+<img src= "Github Images/ERDaigram.png">
