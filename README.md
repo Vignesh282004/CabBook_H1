@@ -1,4 +1,4 @@
-<img src= "GitHub Images/Logo.png">
+<img src= "GitHub Images/cabtrip.png">
 
 <H1>Cab Booking_H1 Project</H1>
 
