@@ -50,7 +50,7 @@ This system is built with **Spring Boot** and **Hibernate**, supporting **Admin*
 - **📋 Booking Information**:  
   View booking details, including the user’s name, source, and destination,Generating Bills for Trips of Users.
 
-  ##  **Functionalities Role**
+  ##  **Functionalities**
   1. Cabs will be Booked on the basis of Availability.
   2. Users can give the Ratings to Drivers .
   3. Implemnted a feature of User books a Cab , the drvier with the highest rating will be allocated accordingly.
@@ -59,3 +59,57 @@ This system is built with **Spring Boot** and **Hibernate**, supporting **Admin*
 
 ![Endpoints](https://github.com/Vignesh282004/CabBook_H1/blob/main/Cab-Trip_H5/src/main/resources/static/image/cab.png)
 <img src= "Github Images/ERDaigram.png">
+
+# Contributing to TripLyft: Adding JWT Authentication
+
+If you're interested in contributing to **TripLyft** by adding **JWT Authentication** functionality, follow these steps to fork the repository, make your changes, and submit a pull request.
+
+---
+
+### **🛠️ How to Contribute:**
+
+#### 1. **Fork the Repository:**
+   - Click the **Fork** button at the top right of the [TripLyft GitHub Repository](https://github.com/your-username/TripLyft).
+   - This will create a **copy** of the repository in your GitHub account.
+
+#### 2. **Clone Your Forked Repository:**
+   - After forking, clone the repository to your local machine to work on it:
+   
+   ```bash
+   git clone https://github.com/your-username/TripLyft.git
+   cd TripLyft
+
+#### 3. **Create a New Branch berfore doing it:**
+   
+   ```bash
+  git checkout -b add-jwt-authentication
+
+4. Implement JWT Functionality:
+Add JWT Authentication functionality:
+Generate and validate JWT tokens.
+Secure Spring REST API endpoints using JWT.
+Update Spring Security to use JWT.
+Make sure to test the functionality properly after implementing JWT.
+
+#### 5. ** Commit  Your Changes:
+   
+   ```bash
+ git add .
+git commit -m "Added JWT Authentication functionality"
+
+#### 5. **  Push Your Changes:
+   
+   ```bash
+git push origin add-jwt-authentication
+
+
+6. Create a Pull Request:
+Once you've pushed your changes, go to your forked repository on GitHub.
+Click "Compare & Pull Request" to open a pull request.
+Provide a detailed description of your changes and how you implemented JWT.
+
+
+🙌 Thank You for Contributing!
+Your contributions will make TripLyft more secure and scalabe.
+
+
