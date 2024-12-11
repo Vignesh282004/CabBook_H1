@@ -57,5 +57,5 @@ This system is built with **Spring Boot** and **Hibernate**, supporting **Admin*
   4. Drivers are Associated with cabs
   5. ss
 
-![Endpoints](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/clear.png)
+![Endpoints](https://github.com/Vignesh282004/CabBook_H1/blob/main/Cab-Trip_H5/src/main/resources/static/image/cab.png)
 <img src= "Github Images/ERDaigram.png">
