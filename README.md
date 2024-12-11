@@ -69,7 +69,7 @@ If you're interested in contributing to **TripLyft** by adding **JWT Authenticat
 ### **🛠️ How to Contribute:**
 
 #### 1. **Fork the Repository:**
-   - Click the **Fork** button at the top right of the [TripLyft GitHub Repository](https://github.com/Vignesh282004/TripLyft).
+   - Click the **Fork** button at the top right of the [TripLyft GitHub Repository](https://github.com/Vignesh282004/CabBook_H1).
    - This will create a **copy** of the repository in your GitHub account.
 
 #### 2. **Clone Your Forked Repository:**
