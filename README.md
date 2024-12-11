@@ -1,18 +1,61 @@
-<img src= "GitHub Images/Logo.png">
+<img src= "Github Images/cabtrip1.png">
+# 🚖 TripLyft
 
-<H1>Cab Booking_H1 Project</H1>
+This system is built with **Spring Boot** and **Hibernate**, supporting **Admin**, **User**, and **Driver** roles.
 
+---
 
-It is built to support all the functionality related to managing a taxi booking system. We will discuss each aspect of this project in detail for enhanced understanding. The Taxi Booking System project is designed in Spring Boot and Hibernate along with the source code. Admin will be responsible for keeping a check on the booking of taxis, managing taxis, drivers, payments, etc. On the other hand, Users can register themselves, log in using the login credentials, view and book the taxi, view charges, etc.
+## 👨‍💻 **Admin Role**
 
-we have designed a cab Booking System project in spring boot & hibernate, which has three main roles i.e. Admin and User. Admin is the primary user and can add/remove/update any details related to the system. Admin can manage registered users and drivers. Admin can Add/Remove/Update cab and their details from the system. Admin can also categorize taxis accordingly. Admin will be responsible for keeping a check on all the bookings done by users. Admin can View/Confirm/Cancel bookings done by users. Admin can check and manage the availability of cab and also, keep a track of the status of all the cab that are engaged.
+- **🔧 Booking Management**:  
+  View, confirm, and cancel bookings.
 
-Admin can set/update prices and charges of the taxi rides. Admin can manage the drivers and their details.
+- **🚖 Cab Management**:  
+  Add, remove, or update taxis.  
+  Categorize taxis (e.g., sedan, SUV).
 
-On the other hand, users can register. Users can search and view the taxis available. Users can search taxis by entering the location.
+- **👨‍✈️ Driver Management**:  
+  Manage driver registration and details.
 
-Admin can maintain a database of drivers. Drivers have to register on the portal. Drivers will be able to see the booking done by users and details of users like name, source, and destination location.
+- **💸 Pricing Management**:  
+  Set and update pricing for rides.
 
-<H1>Cab Booking_H1 Application</H1>
+- **🛠️ Availability Management**:  
+  Track and manage taxi availability and status.
 
-<img src= "GitHub Images/ERDaigram.png">
+- **👥 User Management**:  
+  Oversee user registrations and profiles.
+
+---
+
+## 🧑‍💻 **User Role**
+
+- **📝 Registration**:  
+  Register with personal details.
+
+- **🔍 Taxi Search & Booking**:  
+  Search taxis by source and destination.  
+  Book taxis based on availability.
+
+- **💵 View Charges**:  
+  View pricing for rides before booking.
+
+---
+
+## 🚗 **Driver Role**
+
+- **📝 Driver Registration**:  
+  Register as a driver with personal information.
+
+- **📋 Booking Information**:  
+  View booking details, including the user’s name, source, and destination,Generating Bills for Trips of Users.
+
+  ##  **Functionalities Role**
+  1. Cabs will be Booked on the basis of Availability.
+  2. Users can give the Ratings to Drivers .
+  3. Implemnted a feature of User books a Cab , the drvier with the highest rating will be allocated accordingly.
+  4. Drivers are Associated with cabs
+  5. ss
+
+![Endpoints](https://github.com/Vignesh282004/weather-sky/blob/main/weatherftd/src/main/resources/static/images/clear.png)
+<img src= "Github Images/ERDaigram.png">
